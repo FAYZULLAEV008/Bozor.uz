@@ -1,0 +1,6 @@
+{
+  "name": "BOZOR.UZ - Marketplace",
+  "description": "O'zbekiston uchun zamonaviy va professional ko'p sotuvchili onlayn marketplace",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
